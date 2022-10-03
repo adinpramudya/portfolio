@@ -10,8 +10,11 @@
             I’M <span class="text-primary">FRONT-END</span> DEVELOPER
           </h1>
           <p class="mb-10 text-sm text-slate-400">
-            I am informatics engineering graduate, who is disciplined with time.
-            I will always try, and always learn to add skills and abilities.
+            Hello, I'm Adin. I’m a Computer Science graduate who is disciplined
+            with time. I’m learning enthusiastically to improve my skills and
+            become a professional. Experienced as a freelance front-end
+            Developer, I am also an IT Enthusiast who is very interested in
+            front-end application development.
           </p>
 
           <a

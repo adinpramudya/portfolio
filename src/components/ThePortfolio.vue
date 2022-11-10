@@ -65,7 +65,7 @@ export default {
           description:
             "create a website staycation with React JS and CSS Preprocessor",
           image: portfolio3,
-          url: "https://staycation-house.netlify.app/",
+          url: "https://staycation-adinpramudya.vercel.app/",
         },
         {
           id: "e-commerce",
